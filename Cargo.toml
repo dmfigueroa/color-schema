@@ -7,4 +7,4 @@ edition = "2021"
 
 [dependencies]
 clap = { version = "4.1.1", features = ["derive"] }
-dbus = "0.9.7"
+zbus = "3.7.0"
